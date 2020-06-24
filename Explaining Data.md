@@ -13,3 +13,14 @@ This will provide me the relevant data of restaurants:
     **Categories of restaurants which are common.**
 
 I will use the API once as it will provide me with all the location of restaurants in Mumbai.
+
+## What data can be extracted
+
+   Latitude of each restaurant
+   Longitude of each restaurant
+   Address of each restaurant
+   City in which they are located
+   Distance
+   Name of the restaurant
+   Category of the restaurant. ex: Indian, Chinese
+
