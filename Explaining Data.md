@@ -16,8 +16,8 @@ I will use the API once as it will provide me with all the location of restauran
 
 ## What data can be extracted
 
-   Latitude of each restaurant
-   Longitude of each restaurant
+   Latitude of each restaurant\n
+   Longitude of each restaurant\n
    Address of each restaurant
    City in which they are located
    Distance
